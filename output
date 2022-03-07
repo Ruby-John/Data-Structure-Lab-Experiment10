@@ -1,0 +1,78 @@
+Queue
+1. Insert 2. Delete 3.Display 4.Exit
+1
+Item to be entered : 50
+
+1. Insert 2. Delete 3.Display 4.Exit
+1
+Item to be entered : 55
+
+1. Insert 2. Delete 3.Display 4.Exit
+3
+
+ Queue :50 55
+1. Insert 2. Delete 3.Display 4.Exit
+2
+The deleted item is 50
+1. Insert 2. Delete 3.Display 4.Exit
+1
+Item to be entered : 56
+
+1. Insert 2. Delete 3.Display 4.Exit
+3
+
+ Queue :55 56
+1. Insert 2. Delete 3.Display 4.Exit
+4
+
+
+
+output-linked_list_array.c 
+
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:70
+
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:71
+
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 3
+70 --> 71
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 2
+
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:72
+
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 3
+71 --> 72
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 4
